@@ -2,7 +2,7 @@
 Simplified models for gas exchange for lungs of human body Respiratory system
 
 
-# Project Objective:
+# Project Objective
 A hierarchy of models for gas exchange in the human lungs is presented in our research. our study is concerned with the interactions via the gas exchange process. A hierarchy of very simple models for gas exchange in the human lungs is presented in this study. In humans, complex connections between the respiratory system and cardiac output have been discovered in several experiments. The models presented in this study may be thought of as a controlled system, and they give a mathematical foundation for connecting molecular-level and systems-level models. The effect of modifications in the molecular level on the alveolar partial pressure is illustrated. In addition, validating numerical simulations of the flexible lung model with gas exchange. Identifying methods we used in this model, using OpenCOR tool and finding results for our models. In this work, the gas exchange process is referred to as a controlled system. Numerical results are consistent with published experimental observations.
 
 
