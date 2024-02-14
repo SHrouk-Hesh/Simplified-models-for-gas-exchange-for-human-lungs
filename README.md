@@ -59,7 +59,6 @@ A hierarchy of very simple models for gas exchange in the human lungs is present
 ## Future Work & Suggestions
 In Future work, the models in our paper can be connected to more complicated lung models. For example, a three-dimensional model of the conducting airways might be linked to the models in this research. Gas exchange is regarded in our study as the controlled system, While studying the controlled system can provide some insight into the cardio-respiratory system, the control and feedback mechanisms are important for understanding synchronization and Cheyne–Stokes’s respiration and will be covered in the future.
 
-![image](https://github.com/SHrouk-Hesh/Simplified-models-for-gas-exchange-for-human-lungs/assets/121517766/b86ce2d2-0aee-487e-bf13-b7b49656cdb2)
 
 
 
